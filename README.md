@@ -36,12 +36,6 @@ I'm a passionate software developer and engineering student with a strong intere
 
 ![Yasmeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasmeenlamaa&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmeenlamaa&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=yasmeenlamaa&theme=radical)
-
-[![Yasmeen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yasmeenlamaa&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ## 🤝 Teamwork and Contributions
