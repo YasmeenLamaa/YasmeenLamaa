@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm Yasmeen Lamaa!
 
-<!--
-**YasmeenLamaa/YasmeenLamaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer and engineering student with a strong interest in building innovative solutions that blend technology and creativity. Here, you'll find a showcase of my projects, collaborations, and contributions to the tech community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 **Education**: Computer Science Engineering student at the American University of Beirut.
+- 💡 **Interests**: Software development, AI security, Web development, Cybersecurity, and DevOps.
+- 🎯 **Career Goal**: To create impactful tech solutions that solve real-world problems and inspire innovation.
+- 🌍 **Passions**: Empowering women in STEM through initiatives like the Women in Engineering (WIE) Student Branch and other programs.
+
+---
+
+## 💻 Skills & Tools
+
+### **Programming Languages**
+- C++, Python, Java, JavaScript, MATLAB
+
+### **Frameworks & Tools**
+- Flask, Django, FastAPI, React, Docker, Jenkins, MySQL, Git, Postman
+
+---
+
+## 🌐 Let's Connect!
+
+- 💼 **LinkedIn**: [[Your LinkedIn Profile](https://linkedin.com/in/yasmeen-lamaa)]
+---
+
