@@ -23,8 +23,15 @@ Welcome to my GitHub profile! I'm a passionate software developer and engineerin
 
 ---
 
+## 🤝 Teamwork and Contributions
+
+Collaboration is at the heart of my work. I've had the privilege of contributing to several team-based projects, some of which are pinned on my profile!
+
+---
+
 ## 🌐 Let's Connect!
 
-- 💼 **LinkedIn**: [[Your LinkedIn Profile](https://linkedin.com/in/yasmeen-lamaa)]
+- 💼 **LinkedIn**: [[Yasmeen Lamaa](https://linkedin.com/in/yasmeen-lamaa)]
 ---
+
 
